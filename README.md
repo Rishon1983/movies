@@ -50,7 +50,6 @@ FontAwesome icons are integrated into the project to enhance the visual appeal a
 - Movie Details: Users can view detailed information about each movie, including its title, genre, release date, and other relevant details.
 
 # Getting Started
-***
 
 To run this project locally, follow these steps:
 
